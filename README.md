@@ -10,7 +10,8 @@ simple basic hello world written in several programming languages,  running unde
 
 ```
 gcc hello.c
-./a.out```
+./a.out
+```
 
 ## C++
 
@@ -28,7 +29,9 @@ java Hello
 
 ## PHP 
 
-```php hello.php```
+```
+php hello.php
+```
 
 ## Perl
 
